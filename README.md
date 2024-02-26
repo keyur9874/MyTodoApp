@@ -1,3 +1,4 @@
+# MyTodoApp
 ---
 languages:
 - csharp
@@ -19,8 +20,8 @@ This is a sample application that you can use to follow along with the tutorial 
 
 ### Run from Visual Studio
 
-1. git clone https://github.com/Azure-Samples/msdocs-app-service-sqldb-dotnetcore.git
-2. cd msdocs-app-service-sqldb-dotnetcore
+1. git clone https://github.com/keyur9874/MyTodoApp.git
+2. cd MyTodoApp
 3. Open *DotNetCoreSqlDb.sln* in Visual Studio.
 4. Start debugging.
 
@@ -29,8 +30,8 @@ This is a sample application that you can use to follow along with the tutorial 
 Run the following commands in a terminal:
 
 ```
-git clone https://github.com/Azure-Samples/msdocs-app-service-sqldb-dotnetcore.git
-cd msdocs-app-service-sqldb-dotnetcore
+git clone https://github.com/keyur9874/MyTodoApp.git
+cd MyTodoApp
 dotnet ef database update
 dotnet run
 ```
